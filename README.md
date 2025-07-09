@@ -39,7 +39,7 @@ Only the final dense layer was trained. All other layers were frozen to act as a
 
 ---
 
-## 🔍 Key Features
+## Key Features
 
 - Image preprocessing: resizing and zero-padding
 - Data augmentation: zoom, crop, rotate, contrast, flip
@@ -94,7 +94,3 @@ pip install -r requirements.txt
 | `README.md`                  | This file |
 
 ---
-
-## License
-
-This project is for educational and portfolio purposes only.
